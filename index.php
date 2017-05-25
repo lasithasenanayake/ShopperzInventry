@@ -4,7 +4,7 @@
     define("SERVER", "localhost");
     define("USERNAME", "root");
     define("PASSWORD", "sossgrid");
-    define("DBNAME", "s_localhost");
+    define("DBNAME", "shopperz");
 
     function insetToMySql($req,$res){
         
